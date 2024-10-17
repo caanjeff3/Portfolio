@@ -51,7 +51,7 @@ const projects = [
     description:
       "A discord bot i made to mostly learn more about api usage and managing user's data, I self host it and it was a pretty good way to learn more about that and just node in general",
     link: "https://github.com/caanjeff3/miku-bot/tree/main",
-    thingsUsed: ["Node.js", "Discord's Api", "REST Api's," "User Data Manangement"]
+    thingsUsed: ["Node.js", "Discord's Api", "REST Api's", "User Data Manangement"]
   },
 ];
 
